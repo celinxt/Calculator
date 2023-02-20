@@ -1,4 +1,4 @@
-# Explorer-Projeto-09
+# Calculator
 Projeto de uma calculadora que realiza as operações de:
 
 - SOMA
